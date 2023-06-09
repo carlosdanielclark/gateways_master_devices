@@ -1,0 +1,68 @@
+{
+    "serialNumber": "JKL012",
+    "name": "Gateway 4",
+    "ipv4Address": "192.168.0.4",
+    "peripheralDevices": [
+      {
+        "uid": 14,
+        "vendor": "Device 14",
+        "createdDate": "2023-06-06T05:51:51.735Z",
+        "status": "offline"
+      },
+      {
+        "uid": 15,
+        "vendor": "Device 15",
+        "createdDate": "2023-06-06T05:51:51.735Z",
+        "status": "offline"
+      },
+      {
+        "uid": 16,
+        "vendor": "Device 16",
+        "createdDate": "2023-06-06T05:51:51.735Z",
+        "status": "offline"
+      },
+      {
+        "uid": 17,
+        "vendor": "Device 17",
+        "createdDate": "2023-06-06T05:51:51.735Z",
+        "status": "offline"
+      },
+      {
+        "uid": 18,
+        "vendor": "Device 18",
+        "createdDate": "2023-06-06T05:51:51.735Z",
+        "status": "offline"
+      },
+      {
+        "uid": 19,
+        "vendor": "Device 19",
+        "createdDate": "2023-06-06T05:51:51.735Z",
+        "status": "offline"
+      },
+      {
+        "uid": 20,
+        "vendor": "Device 20",
+        "createdDate": "2023-06-06T05:51:51.735Z",
+        "status": "offline"
+      },
+      {
+        "uid": 21,
+        "vendor": "Device 21",
+        "createdDate": "2023-06-06T05:51:51.735Z",
+        "status": "offline"
+      },
+      {
+        "uid": 22,
+        "vendor": "Device 22",
+        "createdDate": "2023-06-06T05:51:51.735Z",
+        "status": "offline"
+      },
+      {
+        "uid": 23,
+        "vendor": "Device 23",
+        "createdDate": "2023-06-06T05:51:51.735Z",
+        "status": "offline"
+      }
+    ]
+  }
+  

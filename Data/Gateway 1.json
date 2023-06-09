@@ -1,0 +1,20 @@
+{
+    "serialNumber": "ABC123",
+    "name": "Gateway 1",
+    "ipv4Address": "192.168.0.1",
+    "peripheralDevices": [
+      {
+        "uid": 1,
+        "vendor": "Device 1",
+        "createdDate": "2023-06-06T05:51:51.735Z",
+        "status": "offline"
+      },
+      {
+        "uid": 2,
+        "vendor": "Device 2",
+        "createdDate": "2023-06-06T05:51:51.735Z",
+        "status": "offline"
+      }
+    ]
+}
+  

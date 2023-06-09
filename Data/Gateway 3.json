@@ -1,0 +1,50 @@
+{
+    "serialNumber": "GHI789",
+    "name": "Gateway 3",
+    "ipv4Address": "192.168.0.3",
+    "peripheralDevices": [
+      {
+        "uid": 7,
+        "vendor": "Device 7",
+        "createdDate": "2023-06-06T05:51:51.735Z",
+        "status": "offline"
+      },
+      {
+        "uid": 8,
+        "vendor": "Device 8",
+        "createdDate": "2023-06-06T05:51:51.735Z",
+        "status": "offline"
+      },
+      {
+        "uid": 9,
+        "vendor": "Device 9",
+        "createdDate": "2023-06-06T05:51:51.735Z",
+        "status": "offline"
+      },
+      {
+        "uid": 10,
+        "vendor": "Device 10",
+        "createdDate": "2023-06-06T05:51:51.735Z",
+        "status": "offline"
+      },
+      {
+        "uid": 11,
+        "vendor": "Device 11",
+        "createdDate": "2023-06-06T05:51:51.735Z",
+        "status": "offline"
+      },
+      {
+        "uid": 12,
+        "vendor": "Device 12",
+        "createdDate": "2023-06-06T05:51:51.735Z",
+        "status": "offline"
+      },
+      {
+        "uid": 13,
+        "vendor": "Device 13",
+        "createdDate": "2023-06-06T05:51:51.735Z",
+        "status": "offline"
+      }
+    ]
+  }
+  

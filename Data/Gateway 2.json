@@ -1,0 +1,32 @@
+{
+    "serialNumber": "DEF456",
+    "name": "Gateway 2",
+    "ipv4Address": "192.168.0.2",
+    "peripheralDevices": [
+      {
+        "uid": 3,
+        "vendor": "Device 3",
+        "createdDate": "2023-06-06T05:51:51.735Z",
+        "status": "offline"
+      },
+      {
+        "uid": 4,
+        "vendor": "Device 4",
+        "createdDate": "2023-06-06T05:51:51.735Z",
+        "status": "offline"
+      },
+      {
+        "uid": 5,
+        "vendor": "Device 5",
+        "createdDate": "2023-06-06T05:51:51.735Z",
+        "status": "offline"
+      },
+      {
+        "uid": 6,
+        "vendor": "Device 6",
+        "createdDate": "2023-06-06T05:51:51.735Z",
+        "status": "offline"
+      }
+    ]
+  }
+  
